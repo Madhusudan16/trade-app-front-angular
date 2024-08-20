@@ -1,0 +1,45 @@
+.navbar{
+    background-color: #696969 !important;
+    padding: 0;
+}
+
+.navbar .navbar-nav .nav-item .nav-link{
+    color: #fff;
+    padding: 15px 20px;
+}
+
+.navbar .navbar-nav .nav-item .active{
+    background-color: #26a69a;
+    color: #fff;
+}
+
+.navbar .navbar-nav .nav-item:hover{
+    background-color: #2abbad;
+    color: #fff;
+}
+
+.main-page{
+    padding: 20px 40px;
+}
+
+.select-menu{
+    padding: 10px;
+}
+
+.select-menu label{
+    font-size: 14px;
+}
+
+.search-btn{
+    background-color: #26a69a;
+    border: 1px solid #26a69a;
+    margin-top: 15px;
+}
+
+.nav-tabs .tabs-menu .nav-link{
+    color: #696969;
+}
+
+.nav-tabs .tabs-menu .active{
+    color: #000;
+}
